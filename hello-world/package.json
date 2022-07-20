@@ -1,0 +1,7 @@
+{
+  "name": "com.credersi.app.hello-world",
+  "description": "hello-world",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.8.3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "com.credersi.app.states",
+  "description": "states",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.8.3"
+  }
+}

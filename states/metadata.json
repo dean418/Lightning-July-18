@@ -1,0 +1,6 @@
+{
+  "name": "states",
+  "identifier": "com.credersi.app.states",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

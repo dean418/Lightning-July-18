@@ -1,0 +1,7 @@
+{
+  "name": "com.credersi.app.animations",
+  "description": "animations",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.8.3"
+  }
+}
